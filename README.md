@@ -1,4 +1,4 @@
-This is an interactive tool that plots the circumcenter of a specified triangle in an iterative manner. Every combination of three points in each new iteration is considered a triangle, and a new circumcenter for this triangle is  plotted by the program. The default number of iterations is 3, and the default points for the initial triangle are (1,2),(5,3), and (0,7).
+This is an interactive tool that plots the circumcenter of a specified triangle in an iterative manner. Every combination of three points in each new iteration is considered a triangle, and a new circumcenter for this triangle is plotted by the program. The default number of iterations is 3, and the default points for the initial triangle are (1,2),(5,3), and (0,7).
 
 This project illustrates a previously unknown example of emergent chaotic behavior in yet another iterative system. The behavior of this system is chaotic because the illustration is very sensitive to initial conditions, and the patterns of points created by the program are extremely deterministic yet display seemingly random states of disorder and irregularity.
 
